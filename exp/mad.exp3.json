@@ -1,0 +1,20 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamMouthForm",
+			"Value": -0.68,
+			"Blend": "Add"
+		},
+		{
+			"Id": "EyeScale",
+			"Value": -0.68,
+			"Blend": "Add"
+		},
+		{
+			"Id": "angrys",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}
